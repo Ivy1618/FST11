@@ -35,8 +35,6 @@ git log
 - Show commit history (summarized)
 git log --oneline
 
-- Clear terminal commands
-clear
 - Create a branch
 git branch "branch name"
 
@@ -47,4 +45,5 @@ git branch -a
 git switch "branch name" Note: may not work for older versions
 git checkout "branch name"
 
--Clear terminal commands clear
+-Clear terminal commands 
+clear
